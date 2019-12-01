@@ -1,0 +1,17 @@
+{
+	"private": true,
+	"name": "advent-of-code-2019",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "^24.9.0",
+		"prettier": "^1.19.1"
+	}
+}
